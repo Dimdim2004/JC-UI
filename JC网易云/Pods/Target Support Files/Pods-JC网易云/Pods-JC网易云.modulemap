@@ -1,0 +1,6 @@
+framework module Pods_JC___ {
+  umbrella header "Pods-JC网易云-umbrella.h"
+
+  export *
+  module * { export * }
+}

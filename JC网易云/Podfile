@@ -1,0 +1,8 @@
+#platform:ios,'17.5'
+
+target 'JC网易云' do
+ 
+pod 'LookinServer', :configurations => ['Debug']
+
+end
+
